@@ -125,36 +125,51 @@ Sodium channel blockers:
     - **tonic-clonic** 
 - Valproate (dual action, reduces glutamate activity and increase GABA activity)
   - effective for  seizures:
-    - **absence**, **myoclonic**, **tonic-clonic**, **Lennux-Gastaut syndrome**
+    - **absence**
+    - **myoclonic**
+    - **tonic-clonic**
+    - **Lennux-Gastaut syndrome**
   - used as second drug for **status epilepticus** to prevent repeat seizures
 - Lacosamide 
   - sometimes used as second drug for **status epilepticus** to prevent repeat seizures
 
 Calcium channel blockers:
-- Ethosuximide (effective for **absence** seizures. Preferred, especially in younger patients)
+- Ethosuximide 
+  - effective for seizures(preferred, especially in younger patients):
+    - **absence** 
 
 Synaptic glutamate vesicle protein(SV2A) inhibition for calcium:
-- Levetiracetam (very few adverse affects) (effective for **focal** seizures) (effective for **myoclonic** seizures) (effective for **tonic-clonic** seizures) (used as second drug for **status epilepticus** to prevent repeat seizures)
+- Levetiracetam (very few adverse affects) 
+  - effective for seizures:
+    - **focal** 
+    - **myoclonic**
+    - **tonic-clonic**
+  - used as second drug for **status epilepticus** to prevent repeat seizures
 
 AMPA(glutamate receptor) blocker:
-- Felgamate (effective for **Lennux-Gastaut syndrome** seizures, for super refractory cases)
+- Felgamate 
+  - effective for seizures:
+    - **Lennux-Gastaut syndrome** (for super refractory cases)
 
 NMDA(glutamate receptor) blocker:
-- Ketamine (used as third drug for **status epilepticus** if combination of the first two is not enough)
+- Ketamine 
+  - used as third drug for **status epilepticus** if combination of the first two is not enough
 
 ## Increase GABA activity
 
 GABAa receptor stimulant:
-- Benzodiazopines(increases frequency of chloride channel openings): (effective for **myoclonic** seizures) (used first for **status epilepticus**)
-  - Lorazepan
-  - Medazolen
-  - Diazepan
-  - Klabazen
-  - Klemazepan
-- Barbituates(increase the duration of chloride channel openings): (used as fourth drug for **status epilepticus** if combination of the first three is not enough, bordering needing to be put into coma)
-  - Phenobarbital (effective for **focal** seizures, for babies) (tends to be very affective for **tonic-clonic** seizures in babies)
+- Benzodiazopines(increases frequency of chloride channel openings): Lorazepan, Medazolen, Diazepan, Klabazen, Klemazepan
+  - effective for seizures: 
+    - **myoclonic** 
+  - used as first medication for **status epilepticus**
+- Barbituates(increase the duration of chloride channel openings, used as fourth drug for **status epilepticus** if combination of the first three is not enough, bordering needing to be put into coma)
+  - Phenobarbital
+    - very effective for seizures in babies:
+      - **focal**
+      - **tonic-clonic**
   - Pentobarbital
-- Propofol (used as third drug for **status epilepticus** if combination of the first two is not enough)
+- Propofol 
+  - used as third drug for **status epilepticus** if combination of the first two is not enough
 - Topiramete (dual action, reduces glutamate activity and increase GABA activity)
   - Effective for  seizures:
     - **Lennux-Gastaut syndrome**
@@ -162,18 +177,26 @@ GABAa receptor stimulant:
     - **tonic-clonic**
 
 GABA reuptake inhibition:
-- Tiagabine (rarely used for refractory partial seizures, focal seizures. To a lot of first line therapy)
+- Tiagabine 
+  - rarely used for refractory partial seizures, focal seizures
 
 GABA metabolisation inhibition:
-- Vigabatrin (effective for **West syndrome** seizures)
-- Valproate (dual action, reduces glutamate activity and increase GABA activity) 
-  - effective for  seizures:
-    - **absence**, **myoclonic**, **tonic-clonic**, **Lennux-Gastaut syndrome**
-  - used as second drug for **status epilepticus** to prevent repeat seizures
+- Vigabatrin 
+  - effective for seizures:
+    - **West syndrome**
+- Valproate (dual action, reduces glutamate activity and increase GABA activity)
+    - effective for  seizures:
+        - **absence**
+        - **myoclonic**
+        - **tonic-clonic**
+        - **Lennux-Gastaut syndrome**
+    - used as second drug for **status epilepticus** to prevent repeat seizures
 
-## Other
+## Other medications
 
-Cannabidiol - (shown to be effective for **Lennux-Gastaut syndrome** seizures)
+- Cannabidiol 
+  - shown to be effective for seizures:
+    - **Lennux-Gastaut syndrome** 
 
 # Sources
 
