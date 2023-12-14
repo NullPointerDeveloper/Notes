@@ -4,6 +4,11 @@
 Seizure is an event, and if it repeats over time, then it is epilepsy. 
 Different drugs treat different types of seizures.
 
+Status epilepticus - it is a prolonged, 
+either focal seizure where eventually you loose consciousness, 
+or generalized seizure that lasts for more then 5 minutes,
+or repeated seizures withing short amount of time without full recovery.
+
 ## Focal
 
 Where there is a particular area agitated. Depending on the area it manifests in different types of seizure (spasms or strange localized sensations or loss of sensation). 
@@ -20,16 +25,16 @@ Where are multiple areas are agitated. Usually comes with loss of consciousness 
 - Tonic - when muscles tense up.
 - Clonic - when muscles convulse repeatedly.
 - Atonic - when you go limp.
-- Muoclonic - quick jerky rapid type of movements.
+- Myoclonic - quick jerky rapid type of movements.
 - Absence - when you stare and zone out, usually don't remember what was going on.
 
 ## Epileptic Spasms
 
 We don't know the mechanism of how this happens in particular. 
 
-### Types of epileptic seizures
+### Types of epileptic spasms
 
-- Benign rolandic spasms -
+- Benign Rolandic spasms -
 - West syndrome -
 - Lennux-Gastaut syndrome - multiple seizures every day, almost impossible to control.
 
@@ -48,9 +53,7 @@ TODO: fill out the list of toxins known to cause epilepsy.
 
 # Mechanism of epilepsy
 
-
-
-Two particular reason for problematic signals:
+Two particular reason for problematic signals leading to seizures:
 
 - Too much glutamate (_excitatory neurotransmitter with several types of receptors found throughout the central nervous system_) 
 activity.
@@ -65,7 +68,7 @@ sodium will rush into the cell making the axon positive - referred to as **depol
 Depolarization activates another channel - voltage gated calcium channels let in calcium when activated.
 Calcium binds to proteins called vesicles and helps it bond the cell membrane and release the glutamate.
 Glutamate then binds to receptors on other nerve cells causing sodium and calcium to go into the cell.
-Increased concentration of calcium and sodium in the nerve cells cause the action potential to increase
+Increased concentration of positive calcium and sodium ions in the nerve cells cause the action potential to increase
 and by that cause the seizure causing signal to proliferate.
 
 - Low or decreased GABA(Gamma-aminobutyric acid) activity.
@@ -75,6 +78,102 @@ but there is no known special channel that are relevant for this action potentia
 GABA then binds to GABAa receptor protein on the membrane of other nerve cells.
 GABAa receptor open a channel into the neuron for chloride ions.
 Chloride ions counteract positive calcium/chloride ions and in effect reduces action potential in the nerve cell. 
+So when there is a dysfunction of GAMAa receptor, you get less inhibition of actoin potential mitigations, 
+resulting in stimulation of action potential, that can proliferate further, resulting in a seizure.
+GABA after getting released is recycled.
+  - This could also be caused by increase in GABA reuptake, reducing its concentration in the affected area. 
+  - GABA can also be metabolized, resulting in reduced overall GABA levels. 
+
+Drugs target different mechanisms used in the process of both glutamate and GABA cycles.
+
+# Medications
+
+treat the underlying cause. Then you might not need anti-epileptic drug.
+
+Process of picking out the drugs is trial and error, until you get to the proper dose and seizures stop and there are no adverse side effects.
+You can not abruptly stop using the drugs. Even if it is ineffective, it has to be tapered off.
+
+## Reduce glutamate activity
+
+Sodium channel blockers:
+- Carbamazepine 
+  - Effective for seizures: 
+    - **focal** 
+- Oxcarbazepene 
+  - Effective for seizures: 
+    - **focal** 
+- Phenytoin 
+  - Somewhat effective for seizures: 
+    - **tonic-clonic**
+- Fosphenytoin 
+  - Somewhat effective for seizures: 
+    - **tonic-clonic**  
+  - Used as second drug for **status epilepticus** to prevent repeat seizures
+- Lamotrigene 
+  - Effective for seizures: 
+    - **focal**
+    - **absence** 
+    - **myoclonic**
+    - **Benign Rolandic spasms**
+    - **Lennux-Gastaut syndrome** 
+  - Shown to be somewhat beneficial for seizures:
+    - **tonic-clonic** 
+- Topiramete (dual action, reduces glutamate activity and increase GABA activity)
+  - Effective for  seizures:
+    - **Lennux-Gastaut syndrome**
+  - shown to be somewhat beneficial for seizures:
+    - **tonic-clonic** 
+- Valproate (dual action, reduces glutamate activity and increase GABA activity)
+  - effective for  seizures:
+    - **absence**, **myoclonic**, **tonic-clonic**, **Lennux-Gastaut syndrome**
+  - used as second drug for **status epilepticus** to prevent repeat seizures
+- Lacosamide 
+  - sometimes used as second drug for **status epilepticus** to prevent repeat seizures
+
+Calcium channel blockers:
+- Ethosuximide (effective for **absence** seizures. Preferred, especially in younger patients)
+
+Synaptic glutamate vesicle protein(SV2A) inhibition for calcium:
+- Levetiracetam (very few adverse affects) (effective for **focal** seizures) (effective for **myoclonic** seizures) (effective for **tonic-clonic** seizures) (used as second drug for **status epilepticus** to prevent repeat seizures)
+
+AMPA(glutamate receptor) blocker:
+- Felgamate (effective for **Lennux-Gastaut syndrome** seizures, for super refractory cases)
+
+NMDA(glutamate receptor) blocker:
+- Ketamine (used as third drug for **status epilepticus** if combination of the first two is not enough)
+
+## Increase GABA activity
+
+GABAa receptor stimulant:
+- Benzodiazopines(increases frequency of chloride channel openings): (effective for **myoclonic** seizures) (used first for **status epilepticus**)
+  - Lorazepan
+  - Medazolen
+  - Diazepan
+  - Klabazen
+  - Klemazepan
+- Barbituates(increase the duration of chloride channel openings): (used as fourth drug for **status epilepticus** if combination of the first three is not enough, bordering needing to be put into coma)
+  - Phenobarbital (effective for **focal** seizures, for babies) (tends to be very affective for **tonic-clonic** seizures in babies)
+  - Pentobarbital
+- Propofol (used as third drug for **status epilepticus** if combination of the first two is not enough)
+- Topiramete (dual action, reduces glutamate activity and increase GABA activity)
+  - Effective for  seizures:
+    - **Lennux-Gastaut syndrome**
+  - shown to be somewhat beneficial for seizures:
+    - **tonic-clonic**
+
+GABA reuptake inhibition:
+- Tiagabine (rarely used for refractory partial seizures, focal seizures. To a lot of first line therapy)
+
+GABA metabolisation inhibition:
+- Vigabatrin (effective for **West syndrome** seizures)
+- Valproate (dual action, reduces glutamate activity and increase GABA activity) 
+  - effective for  seizures:
+    - **absence**, **myoclonic**, **tonic-clonic**, **Lennux-Gastaut syndrome**
+  - used as second drug for **status epilepticus** to prevent repeat seizures
+
+## Other
+
+Cannabidiol - (shown to be effective for **Lennux-Gastaut syndrome** seizures)
 
 # Sources
 
