@@ -99,16 +99,34 @@ Sodium channel blockers:
 - Carbamazepine 
   - Effective for seizures: 
     - **focal** 
+  - Side effects:
+    - Stevens-Johnson syndrome
+    - Hepatotoxicity (liver damage)
+    - stimulates cyptachrome p 450 system (drug metabolisation)
+    - teratogenic (dangerous for pregnancy)
+    - hyponitrimia
 - Oxcarbazepene 
   - Effective for seizures: 
     - **focal** 
 - Phenytoin 
-  - Somewhat effective for seizures: 
+  - Somewhat Effective for seizures: 
     - **tonic-clonic**
+  - Side effects:
+    - to some degree reduced heart rate, reduced blood pressure, reduced respiratory rate, reduced respiratory depth
+    - to some degree Hepatotoxicity (liver damage)
+    - strongly stimulates cyptachrome p 450 system (drug metabolisation)
+    - teratogenic (dangerous for pregnancy)
+    - Gingiual hyperplasia
 - Fosphenytoin 
-  - Somewhat effective for seizures: 
+  - Somewhat Effective for seizures: 
     - **tonic-clonic**  
   - Used as second drug for **status epilepticus** to prevent repeat seizures
+  - Side effects:
+    - to some degree reduced heart rate, reduced blood pressure, reduced respiratory rate, reduced respiratory depth
+    - to some degree Hepatotoxicity (liver damage)
+    - stimulates cyptachrome p 450 system (drug metabolisation)
+    - teratogenic (dangerous for pregnancy)
+    - Gingiual hyperplasia
 - Lamotrigene 
   - Effective for seizures: 
     - **focal**
@@ -116,6 +134,8 @@ Sodium channel blockers:
     - **myoclonic**
     - **Benign Rolandic spasms**
     - **Lennux-Gastaut syndrome** 
+  - Side effects:
+    - Stevens-Johnson syndrome
   - Shown to be somewhat beneficial for seizures:
     - **tonic-clonic** 
 - Topiramete (dual action, reduces glutamate activity and increase GABA activity)
@@ -123,33 +143,46 @@ Sodium channel blockers:
     - **Lennux-Gastaut syndrome**
   - shown to be somewhat beneficial for seizures:
     - **tonic-clonic** 
+  - Side effects:
+    - metabolic acidosis
+    - kidney stones
+    - glicoma
 - Valproate (dual action, reduces glutamate activity and increase GABA activity)
-  - effective for  seizures:
+  - Effective for  seizures:
     - **absence**
     - **myoclonic**
     - **tonic-clonic**
     - **Lennux-Gastaut syndrome**
+  - Side effects:
+    - Hepatotoxicity (liver damage)
+    - inhibits cyptachrome p 450 system (drug metabolisation)
+    - teratogenic (dangerous for pregnancy, inhibits folio production)
+    - pancreatitis
   - used as second drug for **status epilepticus** to prevent repeat seizures
 - Lacosamide 
   - sometimes used as second drug for **status epilepticus** to prevent repeat seizures
 
 Calcium channel blockers:
 - Ethosuximide 
-  - effective for seizures(preferred, especially in younger patients):
+  - Effective for seizures(preferred, especially in younger patients):
     - **absence** 
+  - Side effects:
+    - Stevens-Johnson syndrome
 
 Synaptic glutamate vesicle protein(SV2A) inhibition for calcium:
 - Levetiracetam (very few adverse affects) 
-  - effective for seizures:
+  - Effective for seizures:
     - **focal** 
     - **myoclonic**
     - **tonic-clonic**
   - used as second drug for **status epilepticus** to prevent repeat seizures
 
 AMPA(glutamate receptor) blocker:
-- Felgamate 
-  - effective for seizures:
+- Felbamate 
+  - Effective for seizures:
     - **Lennux-Gastaut syndrome** (for super refractory cases)
+  - Side effects:
+    - Hepatotoxicity (liver damage)
 
 NMDA(glutamate receptor) blocker:
 - Ketamine 
@@ -159,17 +192,24 @@ NMDA(glutamate receptor) blocker:
 
 GABAa receptor stimulant:
 - Benzodiazopines(increases frequency of chloride channel openings): Lorazepan, Medazolen, Diazepan, Klabazen, Klemazepan
-  - effective for seizures: 
+  - Effective for seizures: 
     - **myoclonic** 
   - used as first medication for **status epilepticus**
+  - Side effects:
+    - reduced heart rate, reduced blood pressure, reduced respiratory rate, reduced respiratory depth
 - Barbituates(increase the duration of chloride channel openings, used as fourth drug for **status epilepticus** if combination of the first three is not enough, bordering needing to be put into coma)
   - Phenobarbital
-    - very effective for seizures in babies:
+    - very Effective for seizures in babies:
       - **focal**
       - **tonic-clonic**
   - Pentobarbital
+  - Side effects:
+    - reduced heart rate, reduced blood pressure, reduced respiratory rate, reduced respiratory depth
+    - stimulates cyptachrome p 450 system (drug metabolisation)
 - Propofol 
   - used as third drug for **status epilepticus** if combination of the first two is not enough
+  - Side effects:
+    - reduced heart rate, reduced blood pressure, reduced respiratory rate, reduced respiratory depth
 - Topiramete (dual action, reduces glutamate activity and increase GABA activity)
   - Effective for  seizures:
     - **Lennux-Gastaut syndrome**
@@ -182,10 +222,12 @@ GABA reuptake inhibition:
 
 GABA metabolisation inhibition:
 - Vigabatrin 
-  - effective for seizures:
+  - Effective for seizures:
     - **West syndrome**
+  - Side effects:
+    - vision loss
 - Valproate (dual action, reduces glutamate activity and increase GABA activity)
-    - effective for  seizures:
+    - Effective for  seizures:
         - **absence**
         - **myoclonic**
         - **tonic-clonic**
@@ -195,7 +237,7 @@ GABA metabolisation inhibition:
 ## Other medications
 
 - Cannabidiol 
-  - shown to be effective for seizures:
+  - shown to be Effective for seizures:
     - **Lennux-Gastaut syndrome** 
 
 # Sources
