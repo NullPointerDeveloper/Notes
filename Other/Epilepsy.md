@@ -51,6 +51,22 @@ TODO: fill out the list of toxins known to cause epilepsy.
 - Drugs/toxins - allegedly very very long list.
 - Eclampsia - pregnant patient.
 
+## Labs to do
+
+* Basic labs:
+  - serum electrolyte
+  - glucose
+  - CBC infection
+  - magnesium
+  - RFTs
+  - LFTs
+  - toxicology
+* ECG
+* CT/MRI
+* Lumbar Puncture in case of suspected meningitis/encephalitis
+* EEG
+
+
 # Mechanism of epilepsy
 
 Two particular reason for problematic signals leading to seizures:
@@ -215,6 +231,10 @@ GABAa receptor stimulant:
     - **Lennux-Gastaut syndrome**
   - shown to be somewhat beneficial for seizures:
     - **tonic-clonic**
+  - Side effects:
+    - metabolic acidosis
+    - kidney stones
+    - glicoma
 
 GABA reuptake inhibition:
 - Tiagabine 
@@ -227,12 +247,37 @@ GABA metabolisation inhibition:
   - Side effects:
     - vision loss
 - Valproate (dual action, reduces glutamate activity and increase GABA activity)
-    - Effective for  seizures:
-        - **absence**
-        - **myoclonic**
-        - **tonic-clonic**
-        - **Lennux-Gastaut syndrome**
-    - used as second drug for **status epilepticus** to prevent repeat seizures
+  - Effective for  seizures:
+    - **absence**
+    - **myoclonic**
+    - **tonic-clonic**
+    - **Lennux-Gastaut syndrome**
+  - Side effects:
+    - Hepatotoxicity (liver damage)
+    - inhibits cyptachrome p 450 system (drug metabolisation)
+    - teratogenic (dangerous for pregnancy, inhibits folio production)
+    - pancreatitis
+  - used as second drug for **status epilepticus** to prevent repeat seizures
+
+## Valproate
+
+dual action, reduces glutamate activity and increase GABA activity
+
+- Effective for  seizures:
+  - **absence**
+  - **myoclonic**
+  - **tonic-clonic**
+  - **Lennux-Gastaut syndrome**
+- Side effects:
+  - Hepatotoxicity (liver damage)
+  - inhibits cyptachrome p 450 system (drug metabolisation)
+  - teratogenic (dangerous for pregnancy, inhibits folio production)
+  - pancreatitis
+- used as second drug for **status epilepticus** to prevent repeat seizures
+
+### Treatment
+
+Check CBC and LFTs every 2 weeks for the first 2-3 months to make sure no serious side effects manifest.
 
 ## Other medications
 
